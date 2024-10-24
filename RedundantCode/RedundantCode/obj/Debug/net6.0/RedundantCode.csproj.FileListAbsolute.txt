@@ -1,0 +1,15 @@
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\bin\Debug\net6.0\RedundantCode.exe
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\bin\Debug\net6.0\RedundantCode.deps.json
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\bin\Debug\net6.0\RedundantCode.runtimeconfig.json
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\bin\Debug\net6.0\RedundantCode.dll
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\bin\Debug\net6.0\RedundantCode.pdb
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\obj\Debug\net6.0\RedundantCode.csproj.AssemblyReference.cache
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\obj\Debug\net6.0\RedundantCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\obj\Debug\net6.0\RedundantCode.AssemblyInfoInputs.cache
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\obj\Debug\net6.0\RedundantCode.AssemblyInfo.cs
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\obj\Debug\net6.0\RedundantCode.csproj.CoreCompileInputs.cache
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\obj\Debug\net6.0\RedundantCode.dll
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\obj\Debug\net6.0\refint\RedundantCode.dll
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\obj\Debug\net6.0\RedundantCode.pdb
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\obj\Debug\net6.0\RedundantCode.genruntimeconfig.cache
+C:\Users\Yevhen Voloshchenko\source\repos\RedundantCode\RedundantCode\obj\Debug\net6.0\ref\RedundantCode.dll
